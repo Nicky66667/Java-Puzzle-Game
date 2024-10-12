@@ -23,3 +23,6 @@ This is a simple puzzle game application where players can interact with a graph
 - Resetting the Game: Click the "Replay" menu item to reset the game to its initial state.
 - Exiting the Application: Click the "Close" menu item to exit the application.
 
+### Run Application
+
+Run Main.java to start the application.
